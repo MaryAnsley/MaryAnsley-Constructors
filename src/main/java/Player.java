@@ -34,7 +34,6 @@ public class Player {
         this.playerName=playerName;
         level=1;
 
-
     }
 
     /**
